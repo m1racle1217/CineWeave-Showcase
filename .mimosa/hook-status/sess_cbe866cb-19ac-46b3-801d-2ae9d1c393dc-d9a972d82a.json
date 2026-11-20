@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "mimosa-hook-status/v1",
+  "recordedAt": "2026-11-20T20:24:19.251Z",
+  "sessionId": "sess_cbe866cb-19ac-46b3-801d-2ae9d1c393dc",
+  "event": "PostToolUse",
+  "toolName": "Write",
+  "file": "D:\\个人相关\\resume_ai\\_patch_links.py",
+  "outcome": "inconclusive",
+  "coverage": "partial",
+  "findingCount": 0,
+  "durationMs": 4,
+  "hostState": "hook_complete",
+  "reportHint": ".mimosa/reports/"
+}
